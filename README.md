@@ -1,7 +1,15 @@
 # AIForge
 ### A SAAS application with features for creating content with the help of AI
 
-### 2 Requests per second recommended
+### 2 Requests per MINUTE recommended
+
+![1](https://github.com/arkapg211002/AIForge/blob/main/AIFORGE1.png)
+![2](https://github.com/arkapg211002/AIForge/blob/main/AIFORGE2.png)
+![3](https://github.com/arkapg211002/AIForge/blob/main/AIFORGE3.png)
+![4](https://github.com/arkapg211002/AIForge/blob/main/AIFORGE4.png)
+![5](https://github.com/arkapg211002/AIForge/blob/main/AIFORGE5.png)
+![6](https://github.com/arkapg211002/AIForge/blob/main/AIFORGE6.png)
+![7](https://github.com/arkapg211002/AIForge/blob/main/AIFORGE7.png)
 
 ## Getting Started
 
