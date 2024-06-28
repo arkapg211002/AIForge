@@ -13,7 +13,7 @@ export default function Home() {
               <span className="mx-auto text-xl font-black leading-none text-gray-900 select-none">AIForge<span className="text-green-700">.</span></span>
             </a>
             <nav className="flex flex-wrap items-center mb-5 text-base md:mb-0 md:pl-8 md:ml-8 md:border-l md:border-gray-200">
-              <a href="#_" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Home</a>
+              <a href="#_" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Home</a>
               <a href="https://arkapg211002.github.io/" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Portfolio</a>
               <a href="https://www.linkedin.com/in/arkapratim-ghosh21102002/" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">LinkedIn</a>
               <a href="https://github.com/arkapg211002" target="_blank" className="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">GitHub</a>
