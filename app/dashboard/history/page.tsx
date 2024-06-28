@@ -35,7 +35,7 @@ async function History() {
   return (
     <div className='m-5 p-5 border rounded-lg bg-white'>
         <h2 className='font-bold text-3xl'>History</h2>
-        <p className='text-gray-500'>Search your previously generate AI content</p>
+        <p className='text-gray-500'>Search your previously generated AI content</p>
         <div className='grid grid-cols-7 font-bold bg-secondary mt-5 py-3 px-3'>
             <h2 className='col-span-2 text-white'>TEMPLATE</h2>
             <h2 className='col-span-2 text-white'>AI RESP</h2>
