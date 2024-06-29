@@ -62,7 +62,7 @@ function billing() {
   }
 
   const handleButtonClick = () => {
-    window.open('razorpay.me/@arkapratimghosh', '_blank');
+    window.open('https://razorpay.me/@arkapratimghosh', '_blank');
   }
 
   return (
