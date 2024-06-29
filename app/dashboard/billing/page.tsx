@@ -30,8 +30,8 @@ function billing() {
     const options = {
       "key": process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
       "subscription_id": subId,
-      "name": 'Tubeguruji AI Apps',
-      description: 'Monthly Subscription',
+      "name": 'AI Forge Yearly Subscription',
+      description: 'Yearly Subscription',
       handler: async (resp: { razorpay_payment_id: any; }) => {
         console.log(resp);
         if (resp) {
@@ -62,7 +62,7 @@ function billing() {
   }
 
   const handleButtonClick = () => {
-    window.open('https://rzp.io/i/kzGHzlRX', '_blank');
+    window.open('razorpay.me/@arkapratimghosh', '_blank');
   }
 
   return (
